@@ -1,5 +1,7 @@
 ### Hi there 👋
-
+------------------------------------------------------------------------
+A CyberSecurity student who has a passion for learning new challenges.
+---------------------
 - 🔭 I’m currently working on Graduation-Project
 - 🌱 I’m currently learning Web-Pentesting
 - 🤔 I’m looking for help with Bug-Bounty
