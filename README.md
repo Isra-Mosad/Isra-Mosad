@@ -1,6 +1,6 @@
 ### Hi there 👋
 ------------------------------------------------------------------------
-CyberSecurity student who has a passion for learning new challenges.
+Cloud Architecture Trainee who has a passion for learning new challenges.
 ---------------------
 - 🌱 I’m currently learning Cloud Architecture
 - 🤔 I’m looking for help with Bug-Bounty
